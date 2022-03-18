@@ -1,0 +1,147 @@
+.event_support {
+    width: 100%;
+    height: auto;
+    margin-top: 30px;
+    /* transition: all 0.3s;
+    cursor: pointer; */
+}
+
+.video {
+    width: 500px;
+    height: 300px;
+}
+
+.vide_row {
+    display: flex;
+    flex-direction: row;
+}
+
+.vide_column {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    align-items: flex-end;
+    padding-right: 50px;
+}
+
+.gaoman_team_bg {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 30px;
+    width: 100%;
+    height: 848px;
+}
+
+.gaoman_team1 {
+    width: 469px;
+    height: 848px;
+    position: relative;
+}
+
+.gaoman_public_welfware_bg {
+    display: flex;
+    flex-direction: row;
+    margin-top: 70px;
+}
+
+.gaoman_public_welfware1 {
+    width: 569px;
+    height: 333px;
+}
+
+.gaoman_public_welfware_example {
+    width: 1136;
+    height: 255px;
+}
+
+.gaoman_public_welfware_example_bg {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.gaoman_public_welfware_example_bg2 {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.gaoman_public_welfware_tag1 {
+    height: 50px;
+    width: 50%;
+    border-radius: 10px;
+    background-color: #000000;
+    text-align: center;
+    line-height: 50px;
+    color: white;
+    font-size: 18px;
+}
+
+.gaoman_public_welfware_tag2 {
+    height: 50px;
+    width: 50%;
+    border-radius: 10px;
+    background-color: #8F2422;
+    text-align: center;
+    line-height: 50px;
+    color: white;
+    font-size: 18px;
+}
+
+.contact_us_bg {
+    display: block;
+    height: 1381px;
+    width: 100%;
+    position: relative;
+}
+
+.contact_us_img {
+    height: 1381px;
+    width: 100%;
+    position: absolute;
+    z-index: 1;
+}
+
+.contact_us_content_bg {
+    display: flex;
+    position: absolute;
+    width: 100%;
+    height: 1381px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    z-index: 2;
+}
+
+.gaoman_about_us_tag {
+    width: 50%;
+    border-radius: 10px;
+    background-color: #000000;
+    text-align: center;
+    line-height: 2;
+    color: white;
+    font-size: 18px;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.gaoman_about_us_tag2 {
+    width: 50%;
+    border-radius: 10px;
+    background-color: #000000;
+    text-align: center;
+    line-height: 2;
+    color: white;
+    font-size: 18px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}

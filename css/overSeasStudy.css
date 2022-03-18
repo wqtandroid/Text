@@ -1,0 +1,85 @@
+.custom_made {
+    width: 100%;
+    height: auto;
+    /* transition: all 0.3s;
+    cursor: pointer; */
+}
+
+
+/* .custom_made:hover {
+    transform: scale(1.05);
+} */
+
+.outstanding_colleges_bg {
+    display: block;
+    width: 100%;
+    height: 858px;
+    position: relative;
+}
+
+.excellent_example_bg {
+    display: block;
+    margin-bottom: 50px;
+    height: 798px;
+    width: 100%;
+    position: relative;
+}
+
+.outstanding_colleges {
+    width: 573px;
+    height: 346px;
+    z-index: 1;
+    top: 0px;
+    left: 0px;
+    position: absolute;
+}
+
+.colleges_example_bg {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    position: absolute;
+    z-index: 2;
+    right: 0px;
+    top: 0px;
+    margin-top: 100px;
+    align-items: flex-end;
+}
+
+.colleges_example1 {
+    width: 747px;
+    height: 204px;
+}
+
+.colleges_example2 {
+    width: 1030px;
+    height: 232px;
+}
+
+.colleges_example3 {
+    width: 1029px;
+    height: 223px;
+}
+
+.excellent_example {
+    width: 577px;
+    height: 339px;
+    z-index: 1;
+    top: 0px;
+    left: 0px;
+    position: absolute;
+}
+
+.excellent_example1 {
+    width: 1541px;
+    height: 798px;
+    position: absolute;
+    z-index: 2;
+    right: 0px;
+    top: 0px;
+}
+
+.bottom100 {
+    width: 100%;
+    height: 100px;
+}
